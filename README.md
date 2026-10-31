@@ -8,7 +8,7 @@ AI translation of HMI and PLC texts (alarms, screens, buttons, PLC comments) tha
 
 **Download the free trial** from [Releases](../../releases): every feature, 500 texts per project. Windows package with Node.js included (unzip, double-click `Start HMI Translate.cmd`), or portable package for Linux / macOS (Node.js 20+).
 
-**Licences**: Engineer (one person) or Machine builder (5 people), 12 months: [consigne.gumroad.com/l/hmi-translate](https://consigne.gumroad.com/l/hmi-translate).
+**Licences**: Engineer (one person) or Machine builder (5 people), 12 months: [consignestudio.gumroad.com/l/hmi-translate](https://consignestudio.gumroad.com/l/hmi-translate).
 
 ## Formats
 

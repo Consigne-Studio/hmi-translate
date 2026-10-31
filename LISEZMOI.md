@@ -6,7 +6,7 @@ Traduction par IA des textes d'IHM et d'automate (alarmes, écrans, boutons, com
 
 **Téléchargez l'essai gratuit** dans [Releases](../../releases) : toutes les fonctions, 500 textes par projet. Paquet Windows avec Node.js inclus (décompresser, double-cliquer sur `Start HMI Translate.cmd`), ou paquet portable Linux / macOS (Node.js 20 ou plus).
 
-**Licences** : Ingénieur (une personne) ou Constructeur (5 personnes), 12 mois : [consigne.gumroad.com/l/hmi-translate](https://consigne.gumroad.com/l/hmi-translate).
+**Licences** : Ingénieur (une personne) ou Constructeur (5 personnes), 12 mois : [consignestudio.gumroad.com/l/hmi-translate](https://consignestudio.gumroad.com/l/hmi-translate).
 
 Formats : TIA Portal / WinCC (.xlsx), FactoryTalk View ME/SE (.txt Unicode), TwinCAT HMI (.localization), TwinCAT 3 PLC / CODESYS (.pot/.po), Ignition (.xml/.properties), tout tableau .xlsx/.csv avec une colonne par langue.
 
